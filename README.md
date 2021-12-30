@@ -1,8 +1,9 @@
+Note: These project files and details are not shared because they belong to a company I worked for before. However, I share with you my approach that can be beneficial to everyone. 
 # Instruction on implementing Python AI projects from github on Oracle Cloud
 
 On Oracle Cloud, the projects on Github are incredibly difficult to implement and sometimes take months to overcome. For this reason, I wanted to share this instruction, which I previously prepared for some of my Senior Software Developer colleagues, as I think it may be useful for those who want to implement AI projects on Oracle Cloud. This specification is designed to be a general specification after testing the implementation of almost all kinds of AI projects from github.
 
-Note : Initially, I prepared this instruction for Senior Java Developers who do not know Python. Since these project files, details and all rights belong to a company I worked with before, the files were not shared. This instruction was applied with Tensorflow, Pytorch and even many different technologies and successful results were obtained. Actually, I wrote many more explanations and Wiki pages, but I haven't shared them on github yet. I will continue to share the appropriate ones over time. 
+Initially, I prepared this instruction for Senior Java Developers who do not know Python. This instruction was applied with Tensorflow, Pytorch and even many different technologies and successful results were obtained. Actually, I wrote many more explanations and Wiki pages, but I haven't shared them on github yet. I will continue to share the appropriate ones over time. 
 
 # Application of object detection models to Satellite images on Oracle Cloud
 
